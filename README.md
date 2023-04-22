@@ -2,9 +2,9 @@
 
 ## Consigna/enunciado
 
-Crear una calculadora científica: Puedes comenzar con una calculadora simple que realice operaciones básicas como suma, resta, multiplicación y división, y luego agregar funciones más avanzadas como cálculo de porcentajes y raíces cuadradas, cúbicas, logaritmo, etc.
-Escribir una función que simule una calculadora científica que permita calcular el seno, coseno, tangente, exponencial y logaritmo neperiano. 
-La función preguntará al usuario el valor y la función a aplicar, y mostrará por pantalla una tabla con los enteros de 1 al valor introducido y el resultado de aplicar la función a esos enteros.
+Crear una calculadora científica
+* Básico: Una calculadora que realice operaciones básicas como suma, resta, multiplicación y división, y luego agregar funciones como cálculo de porcentajes, potencia y raíces cuadradas y cúbicas.
+* Avanzado: Escribir una función que simule una calculadora científica que permita calcular el seno, coseno, tangente, exponencial y logaritmo neperiano. La función preguntará al usuario el valor y la función a aplicar, y mostrará por pantalla una tabla con los enteros de 1 al valor introducido y el resultado de aplicar la función a esos enteros.
 
 ## Ejecución
 
