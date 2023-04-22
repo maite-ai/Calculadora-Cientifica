@@ -8,4 +8,4 @@ Crear una calculadora científica
 
 ## Ejecución
 
-Ingresá al [repl de este código](https://replit.com/@peirios/Organizador-de-tareas) para probar cómo funciona.
+Ingresá al [repl de este código](https://replit.com/@peirios/Calculadora-Cientifica-Basica) para probar cómo funciona.

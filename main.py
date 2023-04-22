@@ -8,7 +8,8 @@ def sum(number1, number2):
         {number1}
        +{number2}
        ----------
-        {addition}""")
+        {addition}
+        """)
 
 def deduct(number1, number2):
 	abstraction = number1 - number2
@@ -16,7 +17,8 @@ def deduct(number1, number2):
         {number1}
        -{number2}
        ----------
-        {abstraction}""")
+        {abstraction}
+        """)
 
 def multiply(number1, number2):
 	multiplication = number1 * number2
@@ -59,8 +61,7 @@ def calculator(func="", *args):
 op = 0
 
 while op != 9:
-	print(
-		"""
+	print("""
 	1. Suma de 2 (dos) números
  	2. Resta de 2 (dos) números
 	3. Multiplicación de 2 (dos) números
@@ -70,8 +71,7 @@ while op != 9:
  	7. Calcular la raíz cuadrada de 1 (un) número
 	8. Calcular la raíz \'n\' de 1 (un) número
 	9. Apagar la calculadora
- 		"""
-	)
+ 		""")
 	op = int(input("Tu opción: "))
 	print("------------------------------------")
 	if op == 1:
