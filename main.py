@@ -51,7 +51,7 @@ def square_root(radicand):
 	print(f"2√{radicand}={root}")
  
 def n_root(radicand, n):
-	root = pow(radicand, 1/3)
+	root = pow(radicand, 1/n)
 	print(f"{n}√{radicand}={root}")
 
 def calculator(func="", *args):
